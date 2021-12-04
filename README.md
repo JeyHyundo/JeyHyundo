@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeyHyundo
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Blockchain/NFT Full Stack Development
 - 🌱 I’m currently learning Html/CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on on Blockchain or NFT Project to get experience while I am still learning
 - 📫 How to reach me you can reach me on my email or IG @JeyHyundo
