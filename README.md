@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning Html/CSS
 - 💞️ I’m looking to collaborate on on Blockchain or NFT Project to get experience while I am still learning
 - 📫 How to reach me you can reach me on my email or IG @JeyHyundo
-- I am started training myself on HTML/CSS in November 2021.
-- Now, I am focus on completing my UDemy course: 100 Days Of Code - Web Development Bootcamp [2022] Start date was December 11, 2021.
-- My goal is to finish before 100 day and start working on project on my own for a one month.
+- I am started trained myself on HTML/CSS in November/December 2021.
