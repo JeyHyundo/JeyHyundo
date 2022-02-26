@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeyHyundo
 - 👀 I’m interested in Blockchain/NFT Frontend Development
-- 🌱 I’m currently working on HTML/CSS Projects.
+- 🌱 I’m currently working on Nodejs and Expressjs.
 - 💞️ I’m looking to collaborate on on Blockchain or NFT Project to get experience while I am still learning
 - 📫 How to reach me you can reach me on my email or IG @JeyHyundo
 - I am started training myself on HTML/CSS in April 2000.
